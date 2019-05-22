@@ -6,4 +6,5 @@ Python3, Sklearn, Numpy, Keras and Tensorflow are required.
 
 The code can be run with either Jupyter notebooks or with ml python scripts.
 
-Easiest is to run with docker, as all required dependencies will be installed.
+1. Run pip3 install -r requirements.txt
+2. run sh run-all.sh
